@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whichFahim
+- 👋 Hi, I’m @whichfahim
 - 👀 I’m interested in web design/development, game development, data science and sports analytics
 - 🌱 I’m currently working as a freelance web developer
 - 💞️ I’m looking to collaborate on a data science project for fantasy football
