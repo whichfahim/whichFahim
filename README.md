@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a designer/developer<br>I mainly focus on front-end/UI <br>Currently working on my personal website<br>Preferred tech stack: React.js, HTML, CSS, JS, Python<br>Passionate game developer (RPG Maker XP)<br>Pokemon Trainer<br>I love (playing and watching) Football (Soccer) 
+I'm a designer/developer<br>I mainly focus on front-end/UI <br>Currently working on my personal website<br>Preferred tech stack: React.js, HTML, CSS, JS, Python<br>Passionate game developer (Unity/RPG Maker XP)<br>Pokemon Trainer<br>I love (playing and watching) Football (Soccer) 
 
 
 ## 🌐 Socials:
