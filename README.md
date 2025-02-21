@@ -1,5 +1,11 @@
-# 💫 About Me:
-I'm a designer/developer<br>I make things for the web.<br>Currently pursuing a Master's degree in Applied Computing from UWindsor<br>Preferred tech stack: React.js, HTML, CSS, JS, Django<br>Passionate game developer (Unity/RPG Maker XP) 
+# 💫 About Me: <br>
+👋 Hey, I'm Fahim! <br>
+🎨 Designer & 💻 Developer — I make things for the web. <br>
+🚀 Passionate about building interactive experiences with React, Django & more. <br>
+🎮 Game dev enthusiast (Unity, RPG Maker XP).<br>
+📚 Master's in Applied Computing @ UWindsor<br>
+
+Let's create something awesome! 🚀✨
 
 
 ## 🌐 Socials:
