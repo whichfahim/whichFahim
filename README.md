@@ -34,7 +34,6 @@
 |---|---|
 | [**portfolio**](https://github.com/whichfahim/portfolio) | My game-themed, quest-style portfolio, rebuilt in React + TypeScript |
 | [**pal-breeding-planner**](https://github.com/whichfahim/pal-breeding-planner) | Finds the shortest breeding path to any Pal in Palworld |
-| [**khela-hobe**](https://github.com/whichfahim/khela-hobe) | TypeScript side project |
 | [**GENIO-TECH**](https://github.com/whichfahim/GENIO-TECH) | E-learning platform with video calling and payments (team project) |
 
 ## 📊 Stats
