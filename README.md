@@ -1,6 +1,8 @@
 # Hey, I'm Fahim 👋
 
-**Design engineer / UI engineer.** I design in Figma and build it in React + TypeScript, so what ships looks like what was designed.
+**UI/UX Designer and Frontend engineer.** 
+
+Your friendly neighbourhood jack of all trades. 
 
 - 🎨 Figma → production React: design systems, component libraries, polished UI
 - 🛠️ Technical Analyst at **FiftyTwo Digital**: debugging production POS systems, tracing logs, building internal tools in Python & Docker that save the team 20+ min per task
